@@ -1,4 +1,4 @@
-An unbeatable tic-tac-toe game made using python.
+An unbeatable tic-tac-toe bot made using python.
 
 To install all dependencies, run the following command:
 
